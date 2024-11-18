@@ -1,1 +1,40 @@
-# html-and-css
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body style="background-color: black;">
+    
+    <h1 style="font-weight: bold; color: white; text-align: center;">2048 game</h1>
+    <hr style="width:100% ;">
+    <h2 style="font-weight: bold; color: white; text-align: center;"> Score: 0</h2>
+    <div  style="font-size:0; width: 400px; height: 400px; margin: 0 auto ; background-color: white;border-style: solid; padding: 3px;  ">
+        <div class="parent">
+            <div style="width: 90px; height: 90px;  background-color: white;border-style: solid; border-color: rgb(93, 94, 94); border-width: 5px;display: inline-block;"></div>
+            <div style="width: 90px; height: 90px;  background-color: white;border-style: solid; border-color: rgb(93, 94, 94); border-width: 5px;display: inline-block;"></div>
+            <div style="width: 90px; height: 90px;  background-color: white;border-style: solid; border-color: rgb(93, 94, 94); border-width: 5px;display: inline-block;"></div>
+            <div style="width: 90px; height: 90px;  background-color: white;border-style: solid; border-color: rgb(93, 94, 94); border-width: 5px;display: inline-block;"></div>        
+        </div>
+        <div class="parent">
+            <div style="width: 90px; height: 90px;  background-color: white;border-style: solid; border-color: rgb(93, 94, 94); border-width: 5px;display: inline-block;"></div>
+            <div style="width: 90px; height: 90px;  background-color: white;border-style: solid; border-color: rgb(93, 94, 94); border-width: 5px;display: inline-block;"></div>
+            <div style="width: 90px; height: 90px;  background-color: white;border-style: solid; border-color: rgb(93, 94, 94); border-width: 5px;display: inline-block;"></div>
+            <div style="width: 90px; height: 90px;  background-color: white;border-style: solid; border-color: rgb(93, 94, 94); border-width: 5px;display: inline-block;"></div>        
+        </div>
+        <div class="parent">
+            <div style="width: 90px; height: 90px;  background-color: white;border-style: solid; border-color: rgb(93, 94, 94); border-width: 5px;display: inline-block;"></div>
+            <div style="width: 90px; height: 90px;  background-color: white;border-style: solid; border-color: rgb(93, 94, 94); border-width: 5px;display: inline-block;"></div>
+            <div style="width: 90px; height: 90px;  background-color: white;border-style: solid; border-color: rgb(93, 94, 94); border-width: 5px;display: inline-block;"></div>
+            <div style="width: 90px; height: 90px;  background-color: white;border-style: solid; border-color: rgb(93, 94, 94); border-width: 5px;display: inline-block;"></div>        
+        </div>
+        <div class="parent">
+            <div style="width: 90px; height: 90px;  background-color: white;border-style: solid; border-color: rgb(93, 94, 94); border-width: 5px;display: inline-block;"></div>
+            <div style="width: 90px; height: 90px;  background-color: white;border-style: solid; border-color: rgb(93, 94, 94); border-width: 5px;display: inline-block;"></div>
+            <div style="width: 90px; height: 90px;  background-color: white;border-style: solid; border-color: rgb(93, 94, 94); border-width: 5px;display: inline-block;"></div>
+            <div style="width: 90px; height: 90px;  background-color: white;border-style: solid; border-color: rgb(93, 94, 94); border-width: 5px;display: inline-block;"></div>        
+        </div>
+    </div>
+</body>
+</html>
