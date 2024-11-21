@@ -1,4 +1,4 @@
-function toggleLike(button) {
+function toggleLike(button){
     if (button.textContent === "❤️ Like") {
         button.textContent = "💔 Unlike";
         button.style.backgroundColor = "#e63939";
