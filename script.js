@@ -5,5 +5,5 @@ function toggleLike(button){
     } else {
         button.textContent = "❤️ Like";
         button.style.backgroundColor = "#ff4d4d";
-    }
+    } 
 }
